@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper as below."
+title: "Joint Radio-Environment Map Construction for THz ISAC via Conditional Flow Matching"
+abstract: >-
+  Terahertz (THz) integrated sensing and communication (ISAC) requires accurate
+  radio-environment awareness despite severe blockage and sparse measurements.
+  This paper investigates joint reconstruction of received signal strength (RSS)
+  maps and obstacle occupancy grids from sparse RSS samples, formulated as
+  conditional generation of a two-channel radio-environment map. A conditional
+  flow matching framework transports Gaussian noise to the conditional map
+  distribution, guided by sparse RSS observations and sensing masks, and jointly
+  reconstructs RSS fields and obstacle occupancy through one-step or few-step ODE
+  sampling. Ray-tracing experiments show lower MSE than DDPM, DDNM, and
+  RadioUNet across the tested sensing ratios.
+authors:
+  - family-names: Li
+    given-names: Ruixuan
+  - family-names: Wang
+    given-names: Shuai
+  - family-names: Li
+    given-names: Lingxiang
+  - family-names: Chen
+    given-names: Zhi
+type: conference-paper
+preferred-citation:
+  type: conference-paper
+  title: "Joint Radio-Environment Map Construction for THz ISAC via Conditional Flow Matching"
+  authors:
+    - family-names: Li
+      given-names: Ruixuan
+    - family-names: Wang
+      given-names: Shuai
+    - family-names: Li
+      given-names: Lingxiang
+    - family-names: Chen
+      given-names: Zhi
+  collection-title: "2026 IEEE 26th International Conference on Communication Technology (ICCT)"
+  address: "Zhuhai, China"
+  year: 2026
+  month: 10
+  start: 16
+  end: 18
+  notes: "Best Student Paper Award"
