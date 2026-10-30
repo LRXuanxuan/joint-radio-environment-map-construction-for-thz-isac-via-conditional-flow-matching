@@ -65,8 +65,6 @@ Terahertz (THz) integrated sensing and communication (ISAC) requires accurate ra
 
 **Best Student Paper Award**, 2026 IEEE 26th International Conference on Communication Technology (ICCT), Zhuhai, China, October 16–18, 2026.
 
-**Best Student Paper Award**, 2026 IEEE 26th International Conference on Communication Technology (ICCT), Zhuhai, China, October 16–18, 2026.
-
 ---
 
 ## Citation
